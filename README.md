@@ -25,8 +25,8 @@ Seven PyTorch projects spanning CV, NLP, and sequence modeling — CIFAR-10 (97.
 
 ### Data Analysis & Classification
 
-- [MNIST Classification](https://github.com/eflermar/mnist-clasification) — image classification on Fashion MNIST
-- [Insurance Claim Classification](https://github.com/eflermar/insurance-clasification) — imbalanced classification
+- [MNIST Classification](https://github.com/eflermar/mnist-classification) — image classification on Fashion MNIST
+- [Insurance Claim Classification](https://github.com/eflermar/insurance-classification) — imbalanced classification
 - [Museum Data Cleaning](https://github.com/eflermar/museum-data-cleaning) — large-scale data consistency & integrity analysis
 - [Transit Network Analysis](https://github.com/eflermar/transit-network-analysis) — graph centrality analysis on Prague's transit system
 - [R Statistics Coursework](https://github.com/eflermar/r-data-analysis) — regression diagnostics & hypothesis testing
